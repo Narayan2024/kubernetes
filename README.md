@@ -3,7 +3,7 @@ kubernetes learning and practice
 kubernetes
 What is Kubernetes ?
 
-'''
+```
 Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. 
 
 It abstracts the underlying infrastructure, enabling seamless management of resources and workload distribution. 
@@ -12,7 +12,7 @@ Kubernetes offers tools for application scaling, self-healing, and load balancin
 
 It promotes efficiency, resilience, and portability across various cloud and on-premises environments.
 
-'''
+```
 
 Do we run Containers directly on the top of Kubernetes Clusters ?
 
